@@ -231,12 +231,13 @@ nav ul{
     border-radius: 10px;
 }
 .footer{
-    height: 50px;
+    height: 100px;
     width: 100%;
     background-color: #e9ecef;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 1rem;
+    flex-direction: column;
 
 }
